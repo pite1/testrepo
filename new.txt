@@ -1,4 +1,3 @@
-bob.
+bob
 jim
 marybob
-s
